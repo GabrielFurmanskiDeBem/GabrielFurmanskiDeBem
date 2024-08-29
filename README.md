@@ -1,11 +1,12 @@
-## Olá Pessoal! Gabriel Furmanski de Bem 👋
+## Descrição sobre: Gabriel Furmanski De Bem
 <div>
   
--  Aluno do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado às aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
-  
+- Aluno do Curso Técnico em Informática
+- Perfil destinado às aulas de Lógica de Programação 💻
+- Conhecimento e Aprendizagem na linguagem Java ☕
+  <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFurmanskiDeBem&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFurmanskiDeBem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFurmanskiDeBem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div>
