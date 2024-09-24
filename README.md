@@ -1,7 +1,8 @@
 ## Descrição sobre: Gabriel Furmanski De Bem
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d333433363432266865696768743d3132302673656374696f6e3d686561646572](https://github.com/user-attachments/assets/bccecf94-0bd9-482a-a6db-64b65e275572)
 <div>
   
-- Aluno do Curso Técnico em Informática
+- Fazendo Curso Técnico em Informática
 - Perfil destinado às aulas de Lógica de Programação 💻
 - Conhecimento e Aprendizagem na linguagem Java ☕
   <br><br>
@@ -25,3 +26,5 @@
   CONTATOS: <br>
   <a href = "mailto:bendy3025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d333433363432266865696768743d3132302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/fe87335a-89e5-4a69-b0f3-74edccbd932c)
