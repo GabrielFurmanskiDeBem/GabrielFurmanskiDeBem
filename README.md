@@ -1,26 +1,16 @@
-## Sobre: Gabriel Furmanski De Bem
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d333433363432266865696768743d3132302673656374696f6e3d686561646572](https://github.com/user-attachments/assets/bccecf94-0bd9-482a-a6db-64b65e275572)
-<div>
-  
-- Estudante de Técnico em Informática para Desenvolvimento Web;
-- Estudante do Ensino Médio (Terceiro ano);
-- Perfil destinado ao Curso aos projetos do curso;
-- Conhecimento e Aprendizagem na linguagem de programação PHP.
-  <br><br>
+# Sobre mim:
+-Estudante de Técnico em Informática para Desenvolvimento Web;<br>-Estudante do Ensino Médio (Terceiro ano);<br>-Perfil destinado ao Curso aos projetos do curso;<br>-Conhecimento e Aprendizagem na linguagem de programação PHP.
 
-</div>
-<div>
-  Conhecimentos [BÁSICO]: <br><br>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-          
-          
-          
 
-</div>
-<div>
-  <br>
-  CONTATOS: <br>
-  <a href = "mailto:gabrieldebem999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Redes de contato:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieldebem999@gmail.com) 
 
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d333433363432266865696768743d3132302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/fe87335a-89e5-4a69-b0f3-74edccbd932c)
+# Conhecimentos [BÁSICO]:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# Status [GITHUB]:
+![](https://github-readme-stats.shion.dev/api?username=GabrielFurmanskiDeBem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GabrielFurmanskiDeBem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GabrielFurmanskiDeBem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=GabrielFurmanskiDeBem&icon=9&color=11)](https://visitcount.itsvg.in)
