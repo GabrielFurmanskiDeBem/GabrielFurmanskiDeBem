@@ -11,13 +11,9 @@
 ## Sobre Mim
 
 - Estudante de **Técnico em Informática para Desenvolvimento Web**
-
 - Cursando o **3º ano do Ensino Médio**
-
 - Perfil dedicado aos projetos, atividades e aprendizados desenvolvidos durante o curso.
-
 - Atualmente aprofundando meus conhecimentos em **PHP**, banco de dados e desenvolvimento web.
-
 - Sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
 
 ---
