@@ -34,9 +34,9 @@
 ### Design e Multimídia
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sound%20Design-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Video%20Editing-FF4D4D?style=for-the-badge"/>
+  <img href="#" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img href="#" src="https://img.shields.io/badge/Sound%20Design-6A5ACD?style=for-the-badge"/>
+  <img href="#" src="https://img.shields.io/badge/Video%20Editing-FF4D4D?style=for-the-badge"/>
 </p>
 
 ---
