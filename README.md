@@ -34,19 +34,18 @@
 ### Design e Multimídia
 
 <p align="left">
-  <img href="#" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img href="#" src="https://img.shields.io/badge/Sound%20Design-6A5ACD?style=for-the-badge"/>
-  <img href="#" src="https://img.shields.io/badge/Video%20Editing-FF4D4D?style=for-the-badge"/>
+  <img href="#" src="https://img.shields.io/badge/Video%20Editor-FF4D4D?style=for-the-badge"/>
 </p>
 
 ---
 
 ## Sequência de Contribuições
 
-<div align="left">
-
-<img src="https://streak-stats.demolab.com?user=GabrielFurmanskiDeBem&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfurmanskidebem&" alt="gabrielfurmanskidebem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfurmanskidebem&show_icons=true&locale=en" alt="gabrielfurmanskidebem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfurmanskidebem&show_icons=true&locale=en&layout=compact" alt="gabrielfurmanskidebem" /></p>
 </div>
 
 ---
